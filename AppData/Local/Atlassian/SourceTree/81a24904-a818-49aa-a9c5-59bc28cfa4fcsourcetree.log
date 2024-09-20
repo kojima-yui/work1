@@ -1,0 +1,31 @@
+2024-08-19T08:50:25: LogHost: Initializing to normal mode
+2024-08-19T08:50:27: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-19T08:50:27: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-19T08:50:27: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-19T08:50:27: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-19T08:50:27: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-19T08:50:27: Could not obtain git dir,  is not a git repo.
+2024-08-19T08:50:28: ScrollToItem idx:0 scrollHeight=74 offset=
+2024-08-19T08:50:37: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-19T08:50:37: ScrollToItem idx:0 scrollHeight=91 offset=
+2024-08-19T08:50:37: 2024/08/19 8:50:37 : REFRESHING DIFF
+2024-08-19T08:50:41: Trying without host
+2024-08-19T08:50:41: Trying without host
+2024-08-19T08:50:45: 2024/08/19 8:50:45 : REFRESHING DIFF
+2024-08-19T08:50:45: ScrollToItem idx:1 scrollHeight=91 offset=.9
+2024-08-19T08:50:45: 2024/08/19 8:50:45 : REFRESHING DIFF
+2024-08-19T08:50:57: ScrollToItem idx:0 scrollHeight=74 offset=
+2024-08-19T08:51:02: Trying without host
+2024-08-19T08:51:02: Trying without host
+2024-08-19T08:51:35: 2024/08/19 8:51:35 : REFRESHING DIFF
+2024-08-19T08:51:39: Trying without host
+2024-08-19T08:51:39: Trying without host
+2024-08-19T08:51:41: 2024/08/19 8:51:41 : REFRESHING DIFF
+2024-08-19T08:51:41: ScrollToItem idx:0 scrollHeight=77 offset=
+2024-08-19T08:51:42: 2024/08/19 8:51:42 : REFRESHING DIFF
+2024-08-19T08:56:30: 2024/08/19 8:56:30 : REFRESHING DIFF
+2024-08-19T08:56:30: ScrollToItem idx:1 scrollHeight=91 offset=.9
+2024-08-19T08:56:31: 2024/08/19 8:56:31 : REFRESHING DIFF
+2024-08-19T08:56:35: 2024/08/19 8:56:35 : REFRESHING DIFF
+2024-08-19T08:56:35: ScrollToItem idx:1 scrollHeight=91 offset=.9
+2024-08-19T08:56:35: 2024/08/19 8:56:35 : REFRESHING DIFF

@@ -1,0 +1,88 @@
+2024-08-06T16:30:43: LogHost: Initializing to normal mode
+2024-08-06T16:30:45: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-06T16:30:45: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-06T16:30:45: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-06T16:30:45: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-06T16:30:45: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-06T16:30:46: Could not obtain git dir,  is not a git repo.
+2024-08-06T16:30:47: ScrollToItem idx:0 scrollHeight=87 offset=
+2024-08-06T16:30:52: Trying without host
+2024-08-06T16:30:52: Trying without host
+2024-08-06T16:30:58: ScrollToItem idx:0 scrollHeight=87 offset=
+2024-08-06T16:31:01: ScrollToItem idx:1 scrollHeight=87 offset=.85
+2024-08-06T16:31:01: 2024/08/06 16:31:01 : REFRESHING DIFF
+2024-08-06T16:31:13: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-06T16:31:13: ScrollToItem idx:0 scrollHeight=58 offset=
+2024-08-06T16:31:13: 2024/08/06 16:31:13 : REFRESHING DIFF
+2024-08-06T16:31:16: Trying without host
+2024-08-06T16:31:16: Trying without host
+2024-08-06T16:31:18: 2024/08/06 16:31:18 : REFRESHING DIFF
+2024-08-06T16:31:18: ScrollToItem idx:0 scrollHeight=58 offset=
+2024-08-06T16:31:18: 2024/08/06 16:31:18 : REFRESHING DIFF
+2024-08-06T16:31:21: 2024/08/06 16:31:21 : REFRESHING DIFF
+2024-08-06T16:31:21: ScrollToItem idx:1 scrollHeight=87 offset=.85
+2024-08-06T16:31:21: 2024/08/06 16:31:21 : REFRESHING DIFF
+2024-08-06T16:40:47: Checking remote repositories...
+2024-08-06T16:50:47: Checking remote repositories...
+2024-08-06T16:50:47: Trying without host
+2024-08-06T16:50:48: 2024/08/06 16:50:48 : REFRESHING DIFF
+2024-08-06T16:50:48: ScrollToItem idx:0 scrollHeight=58 offset=
+2024-08-06T16:50:48: 2024/08/06 16:50:48 : REFRESHING DIFF
+2024-08-06T16:50:50: 2024/08/06 16:50:50 : REFRESHING DIFF
+2024-08-06T16:50:50: ScrollToItem idx:1 scrollHeight=87 offset=.85
+2024-08-06T16:50:50: 2024/08/06 16:50:50 : REFRESHING DIFF
+2024-08-06T16:50:51: Trying without host
+2024-08-06T16:50:53: Trying without host
+2024-08-06T16:50:56: Trying without host
+2024-08-06T16:52:03: 2024/08/06 16:52:03 : REFRESHING DIFF
+2024-08-06T16:52:03: ScrollToItem idx:0 scrollHeight=58 offset=
+2024-08-06T16:52:04: 2024/08/06 16:52:04 : REFRESHING DIFF
+2024-08-06T16:52:08: 2024/08/06 16:52:08 : REFRESHING DIFF
+2024-08-06T16:52:08: ScrollToItem idx:1 scrollHeight=87 offset=.85
+2024-08-06T16:52:08: 2024/08/06 16:52:08 : REFRESHING DIFF
+2024-08-06T16:53:51: 2024/08/06 16:53:51 : REFRESHING DIFF
+2024-08-06T16:53:51: ScrollToItem idx:0 scrollHeight=58 offset=
+2024-08-06T16:53:51: 2024/08/06 16:53:51 : REFRESHING DIFF
+2024-08-06T16:53:52: 2024/08/06 16:53:52 : REFRESHING DIFF
+2024-08-06T16:53:52: ScrollToItem idx:0 scrollHeight=58 offset=
+2024-08-06T16:53:52: 2024/08/06 16:53:52 : REFRESHING DIFF
+2024-08-06T16:54:14: ScrollToItem idx:0 scrollHeight=58 offset=
+2024-08-06T16:54:54: 2024/08/06 16:54:54 : REFRESHING DIFF
+2024-08-06T16:54:54: 2024/08/06 16:54:54 : REFRESHING DIFF
+2024-08-06T16:55:01: Trying without host
+2024-08-06T16:55:01: Trying without host
+2024-08-06T16:55:04: 2024/08/06 16:55:04 : REFRESHING DIFF
+2024-08-06T16:55:04: ScrollToItem idx:0 scrollHeight=86 offset=
+2024-08-06T16:55:05: 2024/08/06 16:55:05 : REFRESHING DIFF
+2024-08-06T16:55:26: 2024/08/06 16:55:26 : REFRESHING DIFF
+2024-08-06T16:55:26: ScrollToItem idx:0 scrollHeight=86 offset=
+2024-08-06T16:55:27: 2024/08/06 16:55:27 : REFRESHING DIFF
+2024-08-06T17:00:59: Checking remote repositories...
+2024-08-06T17:00:59: Trying without host
+2024-08-06T17:01:03: Trying without host
+2024-08-06T17:01:06: Trying without host
+2024-08-06T17:11:09: Checking remote repositories...
+2024-08-06T17:11:09: Trying without host
+2024-08-06T17:11:12: Trying without host
+2024-08-06T17:11:15: Trying without host
+2024-08-06T17:11:18: Trying without host
+2024-08-06T17:21:20: Checking remote repositories...
+2024-08-06T17:21:20: Trying without host
+2024-08-06T17:21:24: Trying without host
+2024-08-06T17:21:27: Trying without host
+2024-08-06T17:21:29: Trying without host
+2024-08-06T17:31:32: Checking remote repositories...
+2024-08-06T17:31:32: Trying without host
+2024-08-06T17:31:38: Trying without host
+2024-08-06T17:31:41: Trying without host
+2024-08-06T17:31:43: Trying without host
+2024-08-06T17:41:46: Checking remote repositories...
+2024-08-06T17:41:46: Trying without host
+2024-08-06T17:41:49: Trying without host
+2024-08-06T17:41:52: Trying without host
+2024-08-06T17:41:55: Trying without host
+2024-08-06T17:51:58: Checking remote repositories...
+2024-08-06T17:51:58: Trying without host
+2024-08-06T17:52:02: Trying without host
+2024-08-06T17:52:05: Trying without host
+2024-08-06T17:52:08: Trying without host

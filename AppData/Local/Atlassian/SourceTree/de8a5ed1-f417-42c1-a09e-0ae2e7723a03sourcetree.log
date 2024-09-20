@@ -1,0 +1,22 @@
+2024-08-19T08:56:44: LogHost: Initializing to normal mode
+2024-08-19T08:56:45: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-19T08:56:45: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-19T08:56:45: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-19T08:56:45: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-19T08:56:45: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-19T08:56:45: Could not obtain git dir,  is not a git repo.
+2024-08-19T08:56:46: ScrollToItem idx:0 scrollHeight=91 offset=
+2024-08-19T08:56:46: 2024/08/19 8:56:46 : REFRESHING DIFF
+2024-08-19T08:56:49: Trying without host
+2024-08-19T08:56:49: Trying without host
+2024-08-19T08:56:52: 2024/08/19 8:56:52 : REFRESHING DIFF
+2024-08-19T08:56:52: ScrollToItem idx:0 scrollHeight=91 offset=
+2024-08-19T08:56:52: 2024/08/19 8:56:52 : REFRESHING DIFF
+2024-08-19T08:57:12: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-08-19T08:57:12: ScrollToItem idx:0 scrollHeight=77 offset=
+2024-08-19T08:57:12: 2024/08/19 8:57:12 : REFRESHING DIFF
+2024-08-19T08:57:16: Trying without host
+2024-08-19T08:57:16: Trying without host
+2024-08-19T08:57:18: 2024/08/19 8:57:18 : REFRESHING DIFF
+2024-08-19T08:57:18: ScrollToItem idx:0 scrollHeight=77 offset=
+2024-08-19T08:57:18: 2024/08/19 8:57:18 : REFRESHING DIFF

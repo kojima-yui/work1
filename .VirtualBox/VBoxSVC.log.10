@@ -1,0 +1,101 @@
+00:00:00.001780 main     VirtualBox COM Server 7.0.18 r162988 win.amd64 (May  2 2024 10:02:33) release log
+00:00:00.001781 main     Log opened 2024-09-04T08:53:55.802046800Z
+00:00:00.001781 main     Build Type: release
+00:00:00.001786 main     OS Product: Windows 10
+00:00:00.001787 main     OS Release: 10.0.19045
+00:00:00.001787 main     OS Service Pack: 
+00:00:00.059131 main     DMI Product Name: OptiPlex SFF Plus 7010
+00:00:00.064866 main     DMI Product Version: 
+00:00:00.064879 main     Firmware type: UEFI
+00:00:00.065054 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.065069 main     Host RAM: 16072MB (15.6GB) total, 5909MB (5.7GB) available
+00:00:00.065072 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.065072 main     Process ID: 19476
+00:00:00.065072 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.154631          VirtualBox: object creation starts
+00:00:00.154772          Home directory: 'C:\Users\y.kojima\.VirtualBox'
+00:00:00.154841          Installed Drivers:
+00:00:00.167978            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.18.12988)
+00:00:00.179671            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.18.12988)
+00:00:00.190354            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.18.12988)
+00:00:00.208997            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 7.0.18.12988)
+00:00:00.212385          Loading settings file "C:\Users\y.kojima\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.213202          usbLibGetDevices: Starting USB device enumeration
+00:00:00.225744          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.402232          HostDnsMonitor: initializing
+00:00:00.405686          HostDnsMonitor: updating information
+00:00:00.405707          HostDnsMonitor: old information
+00:00:00.405707            no server entries
+00:00:00.405708            no domain set
+00:00:00.405708            no search string entries
+00:00:00.405708          HostDnsMonitor: new information
+00:00:00.405708            server 1: 192.168.129.4
+00:00:00.405709            server 2: 192.168.129.5
+00:00:00.405709            server 3: 8.8.8.8
+00:00:00.405709            domain: tif.corp
+00:00:00.405709            no search string entries
+00:00:00.422580          VD: VDInit finished with VINF_SUCCESS
+00:00:00.426896          Loading settings file "C:\Users\y.kojima\VirtualBox VMs\サーバ\サーバ.vbox" with version "1.19-windows"
+00:00:00.430812          Loading settings file "C:\Users\y.kojima\VirtualBox VMs\user\user.vbox" with version "1.19-windows"
+00:00:00.433560          Loading settings file "C:\Users\y.kojima\VirtualBox VMs\windouws sever\windouws sever.vbox" with version "1.19-windows"
+00:00:00.437173          Loading settings file "C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-security-GUI\RHEL9.3-security-GUI.vbox" with version "1.19-windows"
+00:00:00.441280          Loading settings file "C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-msam-GUI\RHEL9.3-msam-GUI.vbox" with version "1.19-windows"
+00:00:00.442386          VirtualBox: object created
+00:00:00.486423          Saving settings file "C:\Users\y.kojima\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.492655          Finished saving settings file "C:\Users\y.kojima\.VirtualBox\VirtualBox.xml"
+00:00:00.492759          Saving settings file "C:\Users\y.kojima\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.498835          Finished saving settings file "C:\Users\y.kojima\.VirtualBox\VirtualBox.xml"
+00:00:00.498972          Saving settings file "C:\Users\y.kojima\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.504420          Finished saving settings file "C:\Users\y.kojima\.VirtualBox\VirtualBox.xml"
+00:00:01.913370          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:05.279004          Launched VM: 3666898080 pid: 19116 (0x4aac) frontend: GUI/Qt name: RHEL9.3-msam-GUI
+00:00:05.289547          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:09.692210          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:09.936855          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:12.278469          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:12.529184          Saving settings file "C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-msam-GUI\RHEL9.3-msam-GUI.vbox" with version "1.19-windows"
+00:00:12.538768          Finished saving settings file "C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-msam-GUI\RHEL9.3-msam-GUI.vbox"
+00:00:12.546408          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:12.586163          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:00:12.587522          Saving settings file "C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-msam-GUI\RHEL9.3-msam-GUI.vbox" with version "1.19-windows"
+00:00:12.594817          Finished saving settings file "C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-msam-GUI\RHEL9.3-msam-GUI.vbox"
+00:00:12.599580          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:13.183860          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:13.204139          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:16.036467          Saving settings file "C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-msam-GUI\RHEL9.3-msam-GUI.vbox" with version "1.19-windows"
+00:00:16.045814          Finished saving settings file "C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-msam-GUI\RHEL9.3-msam-GUI.vbox"
+00:00:16.051834          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:26.585462          Saving settings file "C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-msam-GUI\RHEL9.3-msam-GUI.vbox" with version "1.19-windows"
+00:00:26.594277          Finished saving settings file "C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-msam-GUI\RHEL9.3-msam-GUI.vbox"
+00:00:26.598895          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:34.021520          Saving settings file "C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-msam-GUI\RHEL9.3-msam-GUI.vbox" with version "1.19-windows"
+00:00:34.030353          Finished saving settings file "C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-msam-GUI\RHEL9.3-msam-GUI.vbox"
+00:00:34.034809          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:05:26.872732          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:05:28.783831          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:05:28.849478          Saving settings file "C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-msam-GUI\RHEL9.3-msam-GUI.vbox" with version "1.19-windows"
+00:05:28.857976          Finished saving settings file "C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-msam-GUI\RHEL9.3-msam-GUI.vbox"
+00:05:28.863418          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:05:30.369815          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:05:39.114663 main     VirtualBox: object deletion starts
+00:05:39.114717 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\y.kojima\VirtualBox VMs\サーバ\Snapshots/{3a119125-7405-4558-834e-b86c42ff86e9}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:05:39.115159 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:39.115280 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:39.115394 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:39.115506 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:39.115621 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:39.115663 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:39.115739 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\y.kojima\VirtualBox VMs\user\user.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:05:39.115864 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\y.kojima\VirtualBox VMs\windouws sever\Snapshots/{67bbc456-9664-4321-9b4e-8e913bf9fc2f}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:05:39.116068 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:39.116114 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-security-GUI\Snapshots/{e524d4a0-2268-4d5b-9a97-4c6e1fda7af5}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:05:39.116420 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:39.116446 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:39.116528 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\y.kojima\VirtualBox VMs\RHEL9.3-msam-GUI\Snapshots/{c28d369e-09f6-4a66-bd45-7ffc00c16af9}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:05:39.116862 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:39.116988 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:39.117013 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:39.117475 main     HostDnsMonitor: shutting down ...
+00:05:39.117508 main     HostDnsMonitor: shut down
+00:05:39.118660 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:39.118862 main     VirtualBox: object deleted

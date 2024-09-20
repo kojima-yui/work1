@@ -1,0 +1,48 @@
+2024-09-12T09:05:36: LogHost: Initializing to normal mode
+2024-09-12T09:05:38: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-09-12T09:05:38: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-09-12T09:05:38: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-09-12T09:05:38: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-09-12T09:05:38: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-09-12T09:05:38: Could not obtain git dir,  is not a git repo.
+2024-09-12T09:05:39: ScrollToItem idx:0 scrollHeight=84 offset=
+2024-09-12T09:05:40: 2024/09/12 9:05:40 : REFRESHING DIFF
+2024-09-12T09:05:43: Trying without host
+2024-09-12T09:05:43: Trying without host
+2024-09-12T09:05:47: 2024/09/12 9:05:47 : REFRESHING DIFF
+2024-09-12T09:05:47: ScrollToItem idx:2 scrollHeight=86 offset=1.7
+2024-09-12T09:05:47: 2024/09/12 9:05:47 : REFRESHING DIFF
+2024-09-12T09:05:53: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-09-12T09:05:53: ScrollToItem idx:0 scrollHeight=86 offset=
+2024-09-12T09:05:53: 2024/09/12 9:05:53 : REFRESHING DIFF
+2024-09-12T09:05:55: Trying without host
+2024-09-12T09:05:55: Trying without host
+2024-09-12T09:05:57: 2024/09/12 9:05:57 : REFRESHING DIFF
+2024-09-12T09:05:57: ScrollToItem idx:1 scrollHeight=86 offset=.85
+2024-09-12T09:05:57: 2024/09/12 9:05:57 : REFRESHING DIFF
+2024-09-12T09:15:40: Checking remote repositories...
+2024-09-12T09:25:40: Checking remote repositories...
+2024-09-12T09:25:40: Trying without host
+2024-09-12T09:25:44: Trying without host
+2024-09-12T09:25:47: Trying without host
+2024-09-12T09:25:49: Trying without host
+2024-09-12T09:35:52: Checking remote repositories...
+2024-09-12T09:35:52: Trying without host
+2024-09-12T09:35:57: Trying without host
+2024-09-12T09:36:00: Trying without host
+2024-09-12T09:36:03: Trying without host
+2024-09-12T09:46:06: Checking remote repositories...
+2024-09-12T09:46:06: Trying without host
+2024-09-12T09:46:09: Trying without host
+2024-09-12T09:46:12: Trying without host
+2024-09-12T09:46:15: Trying without host
+2024-09-12T09:56:17: Checking remote repositories...
+2024-09-12T09:56:17: Trying without host
+2024-09-12T09:56:20: Trying without host
+2024-09-12T09:56:23: Trying without host
+2024-09-12T09:56:26: Trying without host
+2024-09-12T10:06:29: Checking remote repositories...
+2024-09-12T10:06:29: Trying without host
+2024-09-12T10:06:32: Trying without host
+2024-09-12T10:06:34: Trying without host
+2024-09-12T10:06:38: Trying without host

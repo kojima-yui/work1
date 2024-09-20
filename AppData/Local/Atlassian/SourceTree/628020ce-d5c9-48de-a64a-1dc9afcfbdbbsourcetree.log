@@ -1,0 +1,31 @@
+2024-07-31T10:24:56: LogHost: Initializing to normal mode
+2024-07-31T10:24:57: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-07-31T10:24:57: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-07-31T10:24:57: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-07-31T10:24:57: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-07-31T10:24:58: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-07-31T10:24:58: Could not obtain git dir,  is not a git repo.
+2024-07-31T10:24:59: ScrollToItem idx:0 scrollHeight=87 offset=
+2024-07-31T10:25:06: ScrollToItem idx:0 scrollHeight=87 offset=
+2024-07-31T10:34:58: Checking remote repositories...
+2024-07-31T10:34:58: Trying without host
+2024-07-31T10:35:02: Trying without host
+2024-07-31T10:35:05: Trying without host
+2024-07-31T10:44:49: Trying without host
+2024-07-31T10:44:49: Trying without host
+2024-07-31T10:44:53: ScrollToItem idx:0 scrollHeight=87 offset=
+2024-07-31T10:44:59: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-07-31T10:45:00: ScrollToItem idx:3 scrollHeight=57 offset=2.38
+2024-07-31T10:45:00: 2024/07/31 10:45:00 : REFRESHING DIFF
+2024-07-31T10:45:08: Checking remote repositories...
+2024-07-31T10:45:08: Trying without host
+2024-07-31T10:45:08: Trying without host
+2024-07-31T10:45:08: Trying without host
+2024-07-31T10:45:10: 2024/07/31 10:45:10 : REFRESHING DIFF
+2024-07-31T10:45:10: ScrollToItem idx:3 scrollHeight=57 offset=2.38
+2024-07-31T10:45:10: 2024/07/31 10:45:10 : REFRESHING DIFF
+2024-07-31T10:45:10: Trying without host
+2024-07-31T10:45:14: ScrollToItem idx:0 scrollHeight=87 offset=
+2024-07-31T10:45:17: 2024/07/31 10:45:17 : REFRESHING DIFF
+2024-07-31T10:45:17: ScrollToItem idx:3 scrollHeight=57 offset=2.38
+2024-07-31T10:45:17: 2024/07/31 10:45:17 : REFRESHING DIFF

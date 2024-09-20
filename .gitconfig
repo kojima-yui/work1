@@ -1,0 +1,12 @@
+[user]
+	name = kojima-yui
+	email = y.kojima@tbc-inc.co.jp
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[credential "helperselector"]
+	selected = manager
+[credential "https://tbc-inc.backlog.com"]
+	provider = generic

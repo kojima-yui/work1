@@ -1,0 +1,34 @@
+2024-09-13T16:19:50: LogHost: Initializing to normal mode
+2024-09-13T16:19:51: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-09-13T16:19:51: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-09-13T16:19:51: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-09-13T16:19:51: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-09-13T16:19:52: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-09-13T16:19:52: Could not obtain git dir,  is not a git repo.
+2024-09-13T16:19:53: ScrollToItem idx:0 scrollHeight=79 offset=
+2024-09-13T16:19:53: 2024/09/13 16:19:53 : REFRESHING DIFF
+2024-09-13T16:20:12: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2024-09-13T16:20:13: ScrollToItem idx:0 scrollHeight=79 offset=
+2024-09-13T16:20:13: 2024/09/13 16:20:13 : REFRESHING DIFF
+2024-09-13T16:29:53: Checking remote repositories...
+2024-09-13T16:29:53: Trying without host
+2024-09-13T16:29:57: Trying without host
+2024-09-13T16:35:51: 2024/09/13 16:35:51 : REFRESHING DIFF
+2024-09-13T16:35:51: ScrollToItem idx:0 scrollHeight=79 offset=
+2024-09-13T16:35:51: 2024/09/13 16:35:51 : REFRESHING DIFF
+2024-09-13T16:35:52: 2024/09/13 16:35:52 : REFRESHING DIFF
+2024-09-13T16:35:52: ScrollToItem idx:0 scrollHeight=79 offset=
+2024-09-13T16:35:52: 2024/09/13 16:35:52 : REFRESHING DIFF
+2024-09-13T16:35:54: 2024/09/13 16:35:54 : REFRESHING DIFF
+2024-09-13T16:35:54: ScrollToItem idx:0 scrollHeight=79 offset=
+2024-09-13T16:35:54: 2024/09/13 16:35:54 : REFRESHING DIFF
+2024-09-13T16:40:00: Checking remote repositories...
+2024-09-13T16:40:00: Trying without host
+2024-09-13T16:40:04: Trying without host
+2024-09-13T16:40:06: Trying without host
+2024-09-13T16:40:09: Trying without host
+2024-09-13T16:50:12: Checking remote repositories...
+2024-09-13T16:50:12: Trying without host
+2024-09-13T16:50:16: Trying without host
+2024-09-13T16:50:18: Trying without host
+2024-09-13T16:50:21: Trying without host
